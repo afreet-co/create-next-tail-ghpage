@@ -1,0 +1,22 @@
+{
+  "name": "create-next-tail-ghpage",
+  "description": "A Next.js project starter template with configured TailwindCSS and ghpage deploy.",
+  "version": "1.0.7",
+  "main": "index.js",
+  "bin": {
+    "create-next-tail-ghpage": "index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "tailwind",
+    "nextjs",
+    "runner",
+    "ghpage"
+  ],
+  "author": {
+    "name": "Afreet Co"
+  },
+  "license": "MIT"
+}
